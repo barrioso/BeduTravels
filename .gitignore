@@ -1,0 +1,4 @@
+#This is the gitignore file to exlude useless files from our local folders
+
+/images
+
